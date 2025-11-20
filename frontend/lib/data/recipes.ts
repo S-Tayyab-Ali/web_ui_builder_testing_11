@@ -33,7 +33,7 @@ export const recipes: Recipe[] = [
     cook_time: 15,
     difficulty: "Easy",
     dietary_tags: [],
-    image_url: "🥪",
+    image_url: "https://images.unsplash.com/photo-1619096252214-ef06c45683e3?w=800&q=80",
     tips: [
       "The key is to mix vegetables directly into the eggs for even distribution",
       "Don't overcook the eggs - they should be slightly soft when you flip them",
@@ -72,7 +72,7 @@ export const recipes: Recipe[] = [
     cook_time: 12,
     difficulty: "Easy",
     dietary_tags: [],
-    image_url: "🧀",
+    image_url: "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=800&q=80",
     tips: [
       "Use low moisture mozzarella to prevent sogginess",
       "Let the cheese melt completely before assembling"
@@ -109,7 +109,7 @@ export const recipes: Recipe[] = [
     cook_time: 15,
     difficulty: "Medium",
     dietary_tags: ["spicy"],
-    image_url: "🌶️",
+    image_url: "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=800&q=80",
     tips: [
       "Squeeze kimchi well to prevent soggy bread",
       "Adjust gochugaru for desired spice level"
@@ -149,7 +149,7 @@ export const recipes: Recipe[] = [
     cook_time: 12,
     difficulty: "Easy",
     dietary_tags: ["vegetarian"],
-    image_url: "🥬",
+    image_url: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=800&q=80",
     tips: [
       "Don't skip the sugar - it balances the flavors",
       "Extra egg makes up for the missing protein from meat"
@@ -187,7 +187,7 @@ export const recipes: Recipe[] = [
     cook_time: 15,
     difficulty: "Medium",
     dietary_tags: [],
-    image_url: "🥩",
+    image_url: "https://images.unsplash.com/photo-1606787366850-de6330128bfc?w=800&q=80",
     tips: [
       "Freeze beef slightly before slicing for thinner cuts",
       "Don't overcrowd the pan when cooking beef"
@@ -224,7 +224,7 @@ export const recipes: Recipe[] = [
     cook_time: 10,
     difficulty: "Easy",
     dietary_tags: [],
-    image_url: "🐟",
+    image_url: "https://images.unsplash.com/photo-1528736235302-52922df5c122?w=800&q=80",
     tips: [
       "Use tuna packed in water for a lighter option",
       "Add diced cucumber for extra crunch"
@@ -233,3 +233,4 @@ export const recipes: Recipe[] = [
     featured: false
   }
 ];
+

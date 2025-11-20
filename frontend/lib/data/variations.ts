@@ -14,7 +14,7 @@ export const variations: Variation[] = [
       "More generous portion sizes overall"
     ],
     difficulty: "Easy",
-    image_url: "🥪",
+    image_url: "https://images.unsplash.com/photo-1619096252214-ef06c45683e3?w=800&q=80",
     created_date: "2024-01-01"
   },
   {
@@ -30,7 +30,7 @@ export const variations: Variation[] = [
       "Often adds a fried chicken patty option"
     ],
     difficulty: "Medium",
-    image_url: "🍟",
+    image_url: "https://images.unsplash.com/photo-1639744091413-b0c3ce6dd242?w=800&q=80",
     created_date: "2024-01-01"
   },
   {
@@ -46,7 +46,7 @@ export const variations: Variation[] = [
       "Use sugar-free ketchup in the sauce"
     ],
     difficulty: "Easy",
-    image_url: "🥬",
+    image_url: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=80",
     created_date: "2024-01-01"
   },
   {
@@ -62,7 +62,7 @@ export const variations: Variation[] = [
       "Nutritional yeast for umami flavor"
     ],
     difficulty: "Medium",
-    image_url: "🌱",
+    image_url: "https://images.unsplash.com/photo-1511690743698-d9d85f2fbf38?w=800&q=80",
     created_date: "2024-01-01"
   },
   {
@@ -79,7 +79,7 @@ export const variations: Variation[] = [
       "Serve with a side of fruit"
     ],
     difficulty: "Medium",
-    image_url: "🥑",
+    image_url: "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=800&q=80",
     created_date: "2024-01-01"
   },
   {
@@ -96,7 +96,7 @@ export const variations: Variation[] = [
       "Optional: add spicy chicken"
     ],
     difficulty: "Easy",
-    image_url: "🔥",
+    image_url: "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=800&q=80",
     created_date: "2024-01-01"
   },
   {
@@ -113,7 +113,7 @@ export const variations: Variation[] = [
       "Let it sit for 5 minutes before eating (compacts the flavors)"
     ],
     difficulty: "Easy",
-    image_url: "🏪",
+    image_url: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=800&q=80",
     created_date: "2024-01-01"
   },
   {
@@ -130,7 +130,7 @@ export const variations: Variation[] = [
       "Reduce sauce or use Greek yogurt-based sauce"
     ],
     difficulty: "Easy",
-    image_url: "💪",
+    image_url: "https://images.unsplash.com/photo-1606787366850-de6330128bfc?w=800&q=80",
     created_date: "2024-01-01"
   },
   {
@@ -147,7 +147,8 @@ export const variations: Variation[] = [
       "Dust with powdered sugar"
     ],
     difficulty: "Easy",
-    image_url: "🍰",
+    image_url: "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&q=80",
     created_date: "2024-01-01"
   }
 ];
+
