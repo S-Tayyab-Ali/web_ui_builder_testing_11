@@ -1,5 +1,6 @@
-export { recipes } from "./data/recipes";
-export { ingredients } from "./data/ingredients";
-export { techniques } from "./data/techniques";
-export { variations } from "./data/variations";
-export type { Recipe, Ingredient, Technique, Variation } from "./types";
+export { recipes } from "./recipes";
+export { ingredients } from "./ingredients";
+export { techniques } from "./techniques";
+export { variations } from "./variations";
+export type { Recipe, Ingredient, Technique, Variation } from "../types";
+
