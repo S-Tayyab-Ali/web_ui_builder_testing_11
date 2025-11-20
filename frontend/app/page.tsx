@@ -19,7 +19,7 @@ export default function Home() {
           <div className="max-w-4xl mx-auto text-center">
             <div className="text-6xl md:text-8xl mb-6">🥪</div>
             <h1 className="text-4xl md:text-6xl font-bold text-amber-900 mb-6">
-              Korean Egg Toast
+              Korean Egg Toast Website
             </h1>
             <p className="text-xl md:text-2xl text-gray-700 mb-8 leading-relaxed">
               Discover the delicious world of Gilgeori Toast - Korea's beloved
